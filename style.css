@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+body {
+  background-color: indianred;
+  background-image: url('https://images.booksense.com/images/224/544/9780399544224.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: left;
+  background-size: 50% 100%;
+  font-family: 'Patrick Hand';
+  font-size: 36px;
+  color: oldlace;
+  text-shadow: 2px 2px orchid;
+}
+
+input {
+  margin: 5px;
+}
+
+button {
+  margin-top: 5px;
+}
+
+.madlibContent {
+  float: right;
+  width: 48%;
+}
+
+.madlibForm {
+  display: flex;
+  flex-direction: column;
+}
+
+.madlibStory {
+  
+}
